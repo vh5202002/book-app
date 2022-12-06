@@ -1,6 +1,6 @@
 # Book Search App
 
-Open [https://vh5202002.github.io/book-app] (Book Search App) to view it in the browser.
+Open [Book Search App](https://vh5202002.github.io/book-app/) to view it in the browser.
 
 ## AllThePages_
 Homepage
@@ -19,9 +19,8 @@ About
 
 
 ## Functions_
-- User can see the about of this website
-- User can search book by the key word
-- User can preview book 
+• Design, develop and perfect the website on the front-end.
+• Keyword Search function, preview function, hidden negation bar, user profile creation.
 
 ## Instructions_
 
