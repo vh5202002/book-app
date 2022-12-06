@@ -22,20 +22,20 @@ About
   Keyword Search function, preview function, hidden negation bar, user profile creation.
 
 ## Instructions_
-# 1. Install npm
-# 2. Open (Terminal)，Copy (Clone) 
+### 1. Install npm
+### 2. Open (Terminal)，Copy (Clone) 
 	git clone https://github.com/vh5202002/book-app.git
-# 3. Go to the file
+### 3. Go to the file
 	cd book-app
-# 4. Install required packages
+### 4. Install required packages
 	npm install
    	npm install react-router-dom@6
    	npm install --save react-router-dom
    	npm install react-icons --save
-# 5. Run the app	
+### 5. Run the app	
 	npm run start
-# 6. Open http://localhost:3000/
-# 7. Stop the app
+### 6. Open http://localhost:3000/
+### 7. Stop the app
 	ctrl + c ( mac : command + .)
 
 ## Development tools_
@@ -49,35 +49,3 @@ About
 
 ## API_
   Openlibrary: Search API/ Cover API/  Works API
-
-
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [https://vh5202002.github.io/book-app] (Book Search App) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-
-To learn React, check out the [React documentation](https://reactjs.org/).
