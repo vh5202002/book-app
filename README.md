@@ -6,7 +6,7 @@ Open [https://vh5202002.github.io/book-app] (Book Search App) to view it in the 
 Homepage
 <img width="1915" alt="Screen Shot 2022-11-15 at 1 12 49 PM" src="https://user-images.githubusercontent.com/37912868/206006738-99b00734-b03e-438a-9992-9cc040f78074.png">
 
-<img width="972" alt="Find Your Book Of Choice" src="https://user-images.githubusercontent.com/37912868/206006771-47d3f4d6-1ec2-45ed-a6dd-92071428c64e.png">
+<img width="951" alt="Screenshot 2022-12-06 at 11 42 56 AM" src="https://user-images.githubusercontent.com/37912868/206007319-f094f79b-ad3b-4c05-88de-9c524e4e6494.png">
 
 Search Book
 <img width="1898" alt="Screen Shot 2022-11-15 at 1 14 09 PM" src="https://user-images.githubusercontent.com/37912868/206006898-6e461e0f-f052-4480-98c8-fb9e456cf4d7.png">
@@ -16,6 +16,32 @@ Preview book
 
 About
 <img width="1907" alt="Screen Shot 2022-11-15 at 1 14 26 PM" src="https://user-images.githubusercontent.com/37912868/206006827-0e27a724-9b70-4628-a8b7-946a4535de13.png">
+
+
+## Functions_
+- User can see the about of this website
+- User can search book by the key word
+- User can preview book 
+
+## Instructions_
+
+
+
+
+
+## Development tools_
+	Node.js v16.15.1
+	npm 8.19.2
+	React Routes v6.4.3
+	React icons 4.6.0
+  
+## Fonts_
+  Google fonts: Poppins
+
+## API_
+  Openlibrary: Search API/ Cover API/  Works API
+
+
 
 ### `npm start`
 
