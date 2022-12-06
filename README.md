@@ -8,10 +8,10 @@ Homepage
 
 <img width="951" alt="Screenshot 2022-12-06 at 11 42 56 AM" src="https://user-images.githubusercontent.com/37912868/206007319-f094f79b-ad3b-4c05-88de-9c524e4e6494.png">
 
-Search Book
+Book Search
 <img width="1898" alt="Screen Shot 2022-11-15 at 1 14 09 PM" src="https://user-images.githubusercontent.com/37912868/206006898-6e461e0f-f052-4480-98c8-fb9e456cf4d7.png">
 
-Preview book
+Book Preview
 <img width="1898" alt="Screen Shot 2022-11-15 at 1 15 02 PM" src="https://user-images.githubusercontent.com/37912868/206006954-4ff6e281-b466-4d0e-a4ce-3c0253407c2c.png">
 
 About
