@@ -22,20 +22,20 @@ About
   Keyword Search function, preview function, hidden negation bar, user profile creation.
 
 ## Instructions_
-1. Install npm
-2. Open (Terminal)，Copy (Clone) 
+# 1. Install npm
+# 2. Open (Terminal)，Copy (Clone) 
 	git clone https://github.com/vh5202002/book-app.git
-3. Go to the file
+# 3. Go to the file
 	cd book-app
-5. Install required packages
+# 4. Install required packages
 	npm install
    	npm install react-router-dom@6
    	npm install --save react-router-dom
    	npm install react-icons --save
-5. Run the app	
+# 5. Run the app	
 	npm run start
-6. Open http://localhost:3000/
-7. Stop the app
+# 6. Open http://localhost:3000/
+# 7. Stop the app
 	ctrl + c ( mac : command + .)
 
 ## Development tools_
@@ -78,12 +78,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 
 To learn React, check out the [React documentation](https://reactjs.org/).
