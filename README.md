@@ -19,14 +19,20 @@ About
 
 
 ## Functions_
-• Design, develop and perfect the website on the front-end.
-• Keyword Search function, preview function, hidden negation bar, user profile creation.
+  Keyword Search function, preview function, hidden negation bar, user profile creation.
 
 ## Instructions_
-
-
-
-
+1. Install npm
+2. Open (Terminal)，Copy (Clone) 
+git clone https://github.com/vh5202002/book-app.git
+3. cd book-app
+4. npm install
+   npm install react-router-dom@6
+   npm install --save react-router-dom
+   npm install react-icons --save
+5. npm run start
+6. Open http://localhost:3000/
+7. ctrl + c ( mac : command + .)
 
 ## Development tools_
 	Node.js v16.15.1
