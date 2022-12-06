@@ -22,20 +22,20 @@ About
   Keyword Search function, preview function, hidden negation bar, user profile creation.
 
 ## Instructions_
-### 1. Install npm
-### 2. Open (Terminal)，Copy (Clone) 
+#### 1. Install npm
+#### 2. Open (Terminal)，Copy (Clone) 
 	git clone https://github.com/vh5202002/book-app.git
-### 3. Go to the file
+#### 3. Go to the file
 	cd book-app
-### 4. Install required packages
+#### 4. Install required packages
 	npm install
    	npm install react-router-dom@6
    	npm install --save react-router-dom
    	npm install react-icons --save
-### 5. Run the app	
+#### 5. Run the app	
 	npm run start
-### 6. Open http://localhost:3000/
-### 7. Stop the app
+#### 6. Open http://localhost:3000/
+#### 7. Stop the app
 	ctrl + c ( mac : command + .)
 
 ## Development tools_
